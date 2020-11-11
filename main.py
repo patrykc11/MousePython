@@ -20,6 +20,10 @@ pyautogui.click(100, 100) #function used for clicking and dragging the mouse
 
 pyautogui.typewrite("hello World!") #function which write a string in coordinates
 
+pyautogui.typewrite(["a", "left", "ctrlleft"])  #This code is automatic equivalent of typing “a”, pressing left arrow key, and pressing left control key.
+
+pyautogui.hotkey("ctrlleft", "a") #Use hotkey() function to press combination of keys like ctrl-c, ctrl-a etc.
+
 
 
 
