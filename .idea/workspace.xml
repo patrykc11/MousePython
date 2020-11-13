@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6f60ce3-6720-4522-ab40-14b22b67b9f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/checkPixelPos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/square.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,6 +144,7 @@
       <updated>1605110800201</updated>
       <workItem from="1605110801628" duration="5083000" />
       <workItem from="1605129890263" duration="6566000" />
+      <workItem from="1605261974652" duration="631000" />
     </task>
     <servers />
   </component>
