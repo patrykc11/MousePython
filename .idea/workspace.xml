@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6f60ce3-6720-4522-ab40-14b22b67b9f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkPixelPos.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkPixelPos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/square.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.square">
+  <component name="RunManager" selected="Python.test">
     <configuration name="autoMouse" type="PythonConfigurationType" factoryName="Python">
       <module name="autoMouse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,16 +123,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="autoMouse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.autoMouse" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.square" />
       <item itemvalue="Python.checkPixelPos" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.square" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.checkPixelPos" />
+        <item itemvalue="Python.square" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -144,7 +171,8 @@
       <updated>1605110800201</updated>
       <workItem from="1605110801628" duration="5083000" />
       <workItem from="1605129890263" duration="6566000" />
-      <workItem from="1605261974652" duration="631000" />
+      <workItem from="1605261974652" duration="3188000" />
+      <workItem from="1605305132157" duration="5147000" />
     </task>
     <servers />
   </component>
@@ -156,31 +184,36 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="460" y="138" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1605113785868" />
-    <state width="450" height="210" key="GridCell.Tab.0.bottom" timestamp="1605136717750">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1327" height="156" key="GridCell.Tab.0.bottom" timestamp="1605310256821">
+      <screen x="67" y="27" width="1373" height="873" />
     </state>
+    <state width="1327" height="156" key="GridCell.Tab.0.bottom/67.27.1373.873@67.27.1373.873" timestamp="1605310256821" />
     <state width="450" height="210" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1605136717750" />
-    <state width="1354" height="210" key="GridCell.Tab.0.bottom/67.27.1853.887@67.27.1853.887" timestamp="1605130800665" />
-    <state width="450" height="210" key="GridCell.Tab.0.center" timestamp="1605136717749">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1354" height="156" key="GridCell.Tab.0.bottom/67.27.1853.887@67.27.1853.887" timestamp="1605271656431" />
+    <state width="1327" height="156" key="GridCell.Tab.0.center" timestamp="1605310256821">
+      <screen x="67" y="27" width="1373" height="873" />
     </state>
+    <state width="1327" height="156" key="GridCell.Tab.0.center/67.27.1373.873@67.27.1373.873" timestamp="1605310256821" />
     <state width="450" height="210" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1605136717749" />
-    <state width="1354" height="210" key="GridCell.Tab.0.center/67.27.1853.887@67.27.1853.887" timestamp="1605130800663" />
-    <state width="450" height="210" key="GridCell.Tab.0.left" timestamp="1605136717748">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1354" height="156" key="GridCell.Tab.0.center/67.27.1853.887@67.27.1853.887" timestamp="1605271656430" />
+    <state width="1327" height="156" key="GridCell.Tab.0.left" timestamp="1605310256820">
+      <screen x="67" y="27" width="1373" height="873" />
     </state>
+    <state width="1327" height="156" key="GridCell.Tab.0.left/67.27.1373.873@67.27.1373.873" timestamp="1605310256820" />
     <state width="450" height="210" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1605136717748" />
-    <state width="1354" height="210" key="GridCell.Tab.0.left/67.27.1853.887@67.27.1853.887" timestamp="1605130800660" />
-    <state width="450" height="210" key="GridCell.Tab.0.right" timestamp="1605136717749">
-      <screen x="67" y="27" width="1853" height="1053" />
+    <state width="1354" height="156" key="GridCell.Tab.0.left/67.27.1853.887@67.27.1853.887" timestamp="1605271656430" />
+    <state width="1327" height="156" key="GridCell.Tab.0.right" timestamp="1605310256821">
+      <screen x="67" y="27" width="1373" height="873" />
     </state>
+    <state width="1327" height="156" key="GridCell.Tab.0.right/67.27.1373.873@67.27.1373.873" timestamp="1605310256821" />
     <state width="450" height="210" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1605136717749" />
-    <state width="1354" height="210" key="GridCell.Tab.0.right/67.27.1853.887@67.27.1853.887" timestamp="1605130800665" />
+    <state width="1354" height="156" key="GridCell.Tab.0.right/67.27.1853.887@67.27.1853.887" timestamp="1605271656430" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/autoMouse$square.coverage" NAME="square Coverage Results" MODIFIED="1605136433888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/autoMouse$autoMouse.coverage" NAME="autoMouse Coverage Results" MODIFIED="1605113799660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/autoMouse$test.coverage" NAME="test Coverage Results" MODIFIED="1605310256797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/autoMouse$main.coverage" NAME="main Coverage Results" MODIFIED="1605133859904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/autoMouse$checkPixelPos.coverage" NAME="checkPixelPos Coverage Results" MODIFIED="1605136717684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/autoMouse$checkPixelPos.coverage" NAME="checkPixelPos Coverage Results" MODIFIED="1605307528373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
